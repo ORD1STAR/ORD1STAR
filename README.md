@@ -33,7 +33,7 @@ I'm an **AI engineer and full-stack developer** from Algeria. I like the full pa
 
 **AI / Data**
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,pytorch,sklearn,numpy,pandas,jupyter&perline=6"><img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,numpy,pandas,jupyter&perline=6" alt="AI and data stack" /></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,pytorch,sklearn&perline=3"><img src="https://skillicons.dev/icons?i=python,pytorch,sklearn&perline=3" alt="AI and data stack" /></picture>
 
 **Full-stack**
 
@@ -45,7 +45,7 @@ I'm an **AI engineer and full-stack developer** from Algeria. I like the full pa
 
 </div>
 
-Also used across projects: **MNE-Python, LightGBM, XGBoost, CatBoost, Socket.IO, Three.js, Framer Motion, next-intl, discord.py, Nx**.
+Also used across projects: **NumPy, pandas, Jupyter, MNE-Python, LightGBM, XGBoost, CatBoost, Socket.IO, Three.js, Framer Motion, next-intl, discord.py, Nx**.
 
 ## 🚀 Featured projects
 
