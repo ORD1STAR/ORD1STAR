@@ -1,6 +1,6 @@
 <div align="center">
 
-<a name="hero"><img src="assets/hero.svg" alt="Hannoun Amine Amar - AI Engineer and Full-Stack Developer" width="100%" /></a>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/hero.svg"><img src="assets/hero.svg" alt="Hannoun Amine Amar - AI Engineer and Full-Stack Developer" width="100%" /></picture>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2300&pause=600&color=5FCDB8&center=true&vCenter=true&width=720&lines=Master%27s+project%3A+EEG+brain-computer+interface+decoding;I+build+ML+pipelines+and+ship+them+as+real+products;Full-stack%3A+Next.js+%C2%B7+NestJS+%C2%B7+React+%C2%B7+Python;Based+in+Algeria+%F0%9F%87%A9%F0%9F%87%BF+%C2%B7+open+to+opportunities"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2300&pause=600&color=5FCDB8&center=true&vCenter=true&width=720&lines=Master%27s+project%3A+EEG+brain-computer+interface+decoding;I+build+ML+pipelines+and+ship+them+as+real+products;Full-stack%3A+Next.js+%C2%B7+NestJS+%C2%B7+React+%C2%B7+Python;Based+in+Algeria+%F0%9F%87%A9%F0%9F%87%BF+%C2%B7+open+to+opportunities" alt="Typing animation"></picture>
 
@@ -11,7 +11,7 @@
 <p>
 <a href="https://www.linkedin.com/in/hannoun-amine/"><img src="https://img.shields.io/badge/LinkedIn-Hannoun_Amine-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:hannoun.amine25@gmail.com"><img src="https://img.shields.io/badge/Email-hannoun.amine25%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a id="loc"><img src="https://img.shields.io/badge/Location-Algeria-0e6b5c?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Algeria"/></a>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Location-Algeria-0e6b5c?style=for-the-badge&logo=googlemaps&logoColor=white"><img src="https://img.shields.io/badge/Location-Algeria-0e6b5c?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Algeria"/></picture>
 </p>
 
 </div>
@@ -33,15 +33,15 @@ I'm an **AI engineer and full-stack developer** from Algeria. I like the full pa
 
 **AI / Data**
 
-<a><img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,numpy,pandas,jupyter&perline=6" alt="AI and data stack" /></a>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,pytorch,sklearn,numpy,pandas,jupyter&perline=6"><img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,numpy,pandas,jupyter&perline=6" alt="AI and data stack" /></picture>
 
 **Full-stack**
 
-<a><img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nestjs,nodejs,express,flask,tailwind&perline=9" alt="Full-stack" /></a>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,js,react,nextjs,nestjs,nodejs,express,flask,tailwind&perline=9"><img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nestjs,nodejs,express,flask,tailwind&perline=9" alt="Full-stack" /></picture>
 
 **Data stores & tooling**
 
-<a><img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,prisma,docker,git,github,vite&perline=9" alt="Databases and tooling" /></a>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,prisma,docker,git,github,vite&perline=9"><img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,prisma,docker,git,github,vite&perline=9" alt="Databases and tooling" /></picture>
 
 </div>
 
@@ -96,5 +96,5 @@ flowchart LR
 I'm looking for **AI engineering and full-stack roles**. If you'd like to collaborate or talk about a project, reach me on [LinkedIn](https://www.linkedin.com/in/hannoun-amine/) or at **hannoun.amine25@gmail.com**.
 
 <div align="center">
-<a><img src="assets/footer.svg" alt="Let's build something intelligent" width="100%" /></a>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/footer.svg"><img src="assets/footer.svg" alt="Let's build something intelligent" width="100%" /></picture>
 </div>
