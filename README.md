@@ -5,8 +5,11 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2300&pause=600&color=5FCDB8&center=true&vCenter=true&width=720&lines=Master%27s+project%3A+EEG+brain-computer+interface+decoding;I+build+ML+pipelines+and+ship+them+as+real+products;Full-stack%3A+Next.js+%C2%B7+NestJS+%C2%B7+React+%C2%B7+Python;Based+in+Algeria+%F0%9F%87%A9%F0%9F%87%BF+%C2%B7+open+to+opportunities" alt="Typing animation" /></a>
 
 <p>
+<a href="https://ord1star.github.io"><img src="assets/portfolio-btn.svg" alt="Open my portfolio at ord1star.github.io" width="420"/></a>
+</p>
+
+<p>
 <a href="https://www.linkedin.com/in/hannoun-amine/"><img src="https://img.shields.io/badge/LinkedIn-Hannoun_Amine-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://ord1star.github.io"><img src="https://img.shields.io/badge/Portfolio-ord1star.github.io-ffb454?style=for-the-badge&logo=firefoxbrowser&logoColor=black" alt="Portfolio"/></a>
 <a href="mailto:hannoun.amine25@gmail.com"><img src="https://img.shields.io/badge/Email-hannoun.amine25%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 <img src="https://img.shields.io/badge/Location-Algeria-0e6b5c?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Algeria"/>
 </p>
