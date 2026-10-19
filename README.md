@@ -92,5 +92,5 @@ flowchart LR
 I'm looking for **AI engineering and full-stack roles**. If you'd like to collaborate or talk about a project, reach me on [LinkedIn](https://www.linkedin.com/in/hannoun-amine/) or at **hannoun.amine25@gmail.com**.
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:0e6b5c,100:5fcdb8&height=120&section=footer" alt="" />
+<img src="assets/footer.svg" alt="Let's build something intelligent" width="100%" />
 </div>
