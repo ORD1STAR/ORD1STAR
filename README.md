@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:0e6b5c,100:5fcdb8&height=220&section=header&text=Hannoun%20Amine%20Amar&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20Engineer%20%C2%B7%20Full-Stack%20Developer&descAlignY=58&descSize=20" alt="Hannoun Amine Amar - AI Engineer and Full-Stack Developer" />
+<img src="assets/hero.svg" alt="Hannoun Amine Amar - AI Engineer and Full-Stack Developer" width="100%" />
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=5FCDB8&center=true&vCenter=true&width=720&lines=Master%27s+project%3A+EEG+brain-computer+interface+decoding;I+build+ML+pipelines+and+ship+them+as+real+products;Full-stack%3A+Next.js+%C2%B7+NestJS+%C2%B7+React+%C2%B7+Python;Based+in+Algeria+%F0%9F%87%A9%F0%9F%87%BF+%C2%B7+open+to+opportunities" alt="Typing animation" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2300&pause=600&color=5FCDB8&center=true&vCenter=true&width=720&lines=Master%27s+project%3A+EEG+brain-computer+interface+decoding;I+build+ML+pipelines+and+ship+them+as+real+products;Full-stack%3A+Next.js+%C2%B7+NestJS+%C2%B7+React+%C2%B7+Python;Based+in+Algeria+%F0%9F%87%A9%F0%9F%87%BF+%C2%B7+open+to+opportunities" alt="Typing animation" /></a>
 
 <p>
 <a href="https://www.linkedin.com/in/hannoun-amine/"><img src="https://img.shields.io/badge/LinkedIn-Hannoun_Amine-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
