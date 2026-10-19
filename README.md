@@ -18,7 +18,7 @@
 
 I'm an **AI engineer and full-stack developer** from Algeria. I like the full path from data to product: modelling a problem, evaluating it honestly, then building the API and interface people actually use.
 
-- 🎓 **Master's Final Studies Project (PFE):** a brain-computer interface that decodes motor intent from 30-channel EEG, using MNE, CSP and classical ML. → [`eeg-motor-intent-decoder`](https://github.com/ORD1STAR/eeg-motor-intent-decoder)
+- 🎓 **Master's Final Studies Project (PFE):** a brain-computer interface that detects motor intent from 30-channel EEG, using Riemannian/CSP features and EEGNet, with drift-null and confound controls and a real-time LSL replay. → [`eeg-motor-intent-decoder`](https://github.com/ORD1STAR/eeg-motor-intent-decoder)
 - 🎓 **Licence Final Studies Project (PFE):** a role-based university portal with timetables, grades, exams, files and real-time chat, built with a teammate. → [`usthb-student-portal`](https://github.com/ORD1STAR/usthb-student-portal)
 - 🧪 I report results honestly, including baselines, leakage risks and limitations, because a number without context isn't worth much.
 - 🛠️ I build tools for real users: inventory and invoicing for small businesses, multilingual storefronts with RTL support, community bots and competition platforms.
@@ -49,7 +49,7 @@ Also used across projects: **MNE-Python, LightGBM, XGBoost, CatBoost, Socket.IO,
 
 | Project | What it is | Stack |
 |---|---|---|
-| [**eeg-motor-intent-decoder**](https://github.com/ORD1STAR/eeg-motor-intent-decoder) <br/> `Master's PFE` | BCI pipeline decoding Idle / Push / Walk intent from 30-channel EEG | MNE · CSP · scikit-learn |
+| [**eeg-motor-intent-decoder**](https://github.com/ORD1STAR/eeg-motor-intent-decoder) <br/> `Master's PFE` | Brain-switch BCI from 30-channel EEG with honest controls (drift nulls, eye confounds) and a real-time replay | MNE · pyRiemann · PyTorch · LSL |
 | [**xau-price-predictor**](https://github.com/ORD1STAR/xau-price-predictor) | Gold direction forecasting with a stacking ensemble and purged walk-forward CV, evaluated against an always-up baseline | LightGBM · XGBoost · CatBoost · PyTorch |
 | [**neural-arena**](https://github.com/ORD1STAR/neural-arena) | Self-hosted ML competition platform with team auth, CSV scoring and a live leaderboard | Flask · SQLite · scikit-learn |
 | [**multi-agent-chat-arena**](https://github.com/ORD1STAR/multi-agent-chat-arena) | Autonomous Claude agents that chat, debate and hold mock trials | Node.js · SSE |
